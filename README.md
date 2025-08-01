@@ -2,6 +2,8 @@
 
 A simple YouTube downloader GUI for Windows using Python, yt-dlp, and customtkinter. Downloads videos or audio in MP3/MP4 format with selectable quality.
 
+<img width="595" height="511" alt="image" src="https://github.com/user-attachments/assets/c7a8e251-00e7-4cf6-a514-557cc58012c7" />
+
 ## Features
 - Download YouTube videos as MP3 or MP4
 - Select audio/video quality
